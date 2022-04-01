@@ -17,7 +17,7 @@ public class Projet {
         int martin=5;
         int nadir = 10;
         int guyguy =1;
-        int adri = 8;
+        int adri = 7;
 
     }
 }
