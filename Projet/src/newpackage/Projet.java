@@ -15,7 +15,7 @@ public class Projet {
         // TODO code application logic here
 
         int martin=5;
-        int nadir = 8;
+        int nadir = 9;
         int guyguy =1;
         int adri = 4;
 
