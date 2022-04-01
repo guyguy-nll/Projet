@@ -13,6 +13,6 @@ public class Projet {
     
      public static void main(String[] args) {
         // TODO code application logic here
-        int i=1;
+        int i=2;
     }
 }
