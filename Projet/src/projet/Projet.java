@@ -18,7 +18,7 @@ public class Projet {
         // TODO code application logic here
         int i=1;
         i+=2;
-        i=7;
+        i=8;
         System.out.println(i);
     }
     
