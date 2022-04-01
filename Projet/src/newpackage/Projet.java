@@ -13,6 +13,9 @@ public class Projet {
     
      public static void main(String[] args) {
         // TODO code application logic here
-        int i=5;
+        int martin=5;
+        int nadir = 8;
+        int guyguy =1;
+        int adri = 4;
     }
 }
