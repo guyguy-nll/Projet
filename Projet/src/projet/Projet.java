@@ -18,6 +18,7 @@ public class Projet {
         // TODO code application logic here
         int i=1;
         i+=2;
+        i=5;
         System.out.println(i);
     }
     
